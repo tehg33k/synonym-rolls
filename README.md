@@ -1,5 +1,7 @@
 # Synonym Rolls - Just Like Grammar Used to Make
 
+![alt text](project-preview.png)
+
 This project is just a fun way of displaying the results of a fetch to Datamuse API to get back 6 synonyms from the entered work.
 
 ## Demo
