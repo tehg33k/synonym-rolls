@@ -1,4 +1,4 @@
-# Synonym Rolls - Just Like Grammar Used to Make
+# synonym-rolls
 
 ![alt text](project-preview.png)
 
