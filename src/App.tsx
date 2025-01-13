@@ -91,6 +91,7 @@ function App() {
               display: "flex",
               justifyContent: "space-evenly",
               flexWrap: "wrap",
+              fontSize: "1.5rem",
             }}
           >
             {freshSynonyms.slice(0, 6).map((synonym, index) => (
@@ -99,12 +100,12 @@ function App() {
                   src={`src/assets/cinnamon-roll.png`}
                   alt={"cinnamon roll"}
                   style={{
-                    marginInline: ".5rem",
+                    marginInline: ".75rem",
                     display: "flex",
                     justifyContent: "center",
                     alignItems: "center",
                   }}
-                  height="20"
+                  height="24"
                 />
                 {synonym}
               </li>
