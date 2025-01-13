@@ -74,11 +74,11 @@ function App() {
         />
         <button
           type="button"
-          disabled={isSearching}
-          style={{ border: "1px solid white" }}
+          disabled={isSearching || !searchWord}
+          className="button--primary"
           onClick={() => handleSearch()}
         >
-          Bake
+          Bake 🔥
         </button>
       </div>
       {isSearching && <p style={{ marginTop: "2rem" }}>🔥 Baking...</p>}
