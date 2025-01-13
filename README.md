@@ -12,3 +12,6 @@ Simply open your terminal up to the root of the project and run `yarn install`.
 
 ### Run
 After installation, run `yarn start ` and open the browser to the localhost address displayed.
+
+
+test commit
