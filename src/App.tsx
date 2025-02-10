@@ -97,7 +97,7 @@ function App() {
             {freshSynonyms.slice(0, 6).map((synonym, index) => (
               <li key={index} style={{ display: "flex", alignItems: "center" }}>
                 <img
-                  src={`/cinnamon-roll.png`}
+                  src={`cinnamon-roll.png`}
                   alt={"cinnamon roll"}
                   style={{
                     marginInline: ".75rem",
